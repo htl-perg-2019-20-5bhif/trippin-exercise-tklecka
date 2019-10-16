@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "trippin-exercise": {
+      "commandName": "Project",
+      "commandLineArgs": "users.json (S(p5yv5fq0m4dka5xvfyxal1kx))"
+    }
+  }
+}
