@@ -10,7 +10,7 @@ namespace trippin_exercise
 {
     class Program
     {
-        private static HttpClient client = new HttpClient();
+        private static readonly HttpClient client = new HttpClient();
         private static string baseuri;
         //args[0] -> file Path
         //args[1] -> api key //(S(p5yv5fq0m4dka5xvfyxal1kx))
